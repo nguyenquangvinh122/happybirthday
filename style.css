@@ -1,0 +1,36 @@
+
+
+body{
+	color: purple!important;
+}
+
+p{
+	color: red;
+}
+
+#loving{
+	font-style:italic;
+}
+
+body{
+	
+	background-color: gold;
+}
+* {
+	font-family: monospace;
+}
+
+button , input {
+	font : inherit;
+}
+html{
+	font-size: 22px;
+	border : 10px solid black;
+}
+body{
+	
+}
+
+main{
+	font-family : monospace;
+}
